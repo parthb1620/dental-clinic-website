@@ -7,6 +7,7 @@ define('BASE_URL', '/');
     </h1> -->
     <h1 class="m-0 text-primary fs4">Bhayani Dental Clinic
     </h1>
+    <!-- <img class="navbar navbar-brand" width="200" style="color: white;" src="../img/logo.png"> -->
   </a>
   <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
     <!-- <span class="navbar-toggler-icon"></span> -->

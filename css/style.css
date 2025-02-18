@@ -583,7 +583,7 @@ h6,
 }
 
 .about-us-bg {
-  background: url(../img/carousel-1.jpg) center center no-repeat;
+  background: url(../img/about-middle.JPG) center center no-repeat;
   background-size: cover;
   height: 700px;
 }
@@ -595,6 +595,6 @@ h6,
 
 .bg-about-us-p-2 {
   background: linear-gradient(rgba(9, 30, 62, 0.85), rgba(9, 30, 62, 0.85)),
-    url(../img/carousel-1.jpg) center center no-repeat;
+    url(../img/about-bg-1.JPG) center center no-repeat;
   background-size: cover;
 }

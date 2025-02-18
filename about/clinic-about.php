@@ -33,10 +33,8 @@
     <!-- Navbar End -->
 
     <div class="container-fluid p-0 position-relative">
-        <video class="w-100" autoplay muted loop>
-            <!-- <source src="video/intro.mp4" type="video/mp4" /> -->
-            <img src="/img/carousel-1.jpg" alt="Fallback image for video">
-        </video>
+        <!-- <source src="video/intro.mp4" type="video/mp4" /> -->
+        <img class="w-100" src="../img/service-4.jpg">
         <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
             <div class="p-3" style="max-width: 900px">
                 <!-- <h5 class="text-white text-uppercase mb-3">
