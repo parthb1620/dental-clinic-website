@@ -1,0 +1,104 @@
+<html>
+  <head>
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
+
+    <!-- Template Stylesheet -->
+    <link href="css/style.css" rel="stylesheet" />
+    <style>
+      .dropdown .dropdown-menu {
+        display: block;
+        position: absolute;
+        width: 150px;
+        height: 120px;
+        margin-left: 0.1rem;
+        margin-right: 0.1rem;
+        z-index: 1000;
+      }
+      /* .dropdown:c .dropdown-menu {
+        display: block;
+      } */
+      .float-end {
+        position: absolute;
+        right: 1rem;
+        top: 50%;
+        transform: translateY(-50%);
+        pointer-events: none; /* Prevent the icon from interfering with clicks */
+      }
+      .sub-dropdown {
+        position: relative; /* Ensure the parent is positioned */
+      }
+
+      .sub-dropdown::after {
+        content: ""; /* Add content as needed */
+        position: absolute;
+        right: 0;
+        top: 45%;
+        /* transform: translateY(-50%); */
+        transform: rotate(-90deg);
+      }
+
+      .sub-dropdown:hover .sub-dropdown::after {
+        content: ""; /* Add content as needed */
+        position: absolute;
+        right: 0;
+        top: 50%;
+        transform: translateY(-50%);
+        /* transform: rotate(-90deg); */
+      }
+      .dropdown-menu .sub-dropdown-menu {
+        display: none; /* Hide sub-dropdown by default */
+        position: relative;
+        /* left: 100%; */
+        /* top: 0; */
+        margin-left: 0.1rem;
+        z-index: 10001;
+      }
+
+      .sub-dropdown:hover .sub-dropdown-menu {
+        display: block; /* Show sub-dropdown on hover */
+      }
+    </style>
+  </head>
+  <body>
+    <nav
+      class="navbar navbar-expand-lg navbar-light bg-nav shadow-sm px-5 py-3 py-lg-0"
+    >
+      <h1 class="m-0 text-primary fs4">Bhayani Dental Clinic</h1>
+      <div class="collapse navbar-collapse pr-10" id="navbarCollapse">
+        <div class="navbar-nav ms-auto py-0">
+          <a href="#" class="nav-item nav-link">Home</a>
+          <a href="#" class="nav-item nav-link">About</a>
+          <div class="nav-item dropdown">
+            <a
+              href="#"
+              id="treatment-menu"
+              class="nav-link dropdown-toggle"
+              data-bs-toggle="dropdown"
+              >Treatment</a
+            >
+            <div class="dropdown-menu m-0">
+              <a
+                href="#"
+                class="dropdown-item sub-dropdown dropdown-toggle"
+                data-bs-toggle="dropdown"
+                >General
+              </a>
+              <div class="sub-dropdown-menu m-0">
+                <a href="#" class="dropdown-item">Braces & Aligners</a>
+              </div>
+              <a href="#" class="dropdown-item sub-dropdown dropdown-toggle"
+                >General2</a
+              >
+              <a href="#" class="dropdown-item sub-dropdown dropdown-toggle"
+                >Genera3</a
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+    </nav>
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="js/main.js"></script>
+  </body>
+</html>
