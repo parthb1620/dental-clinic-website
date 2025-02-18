@@ -18,7 +18,7 @@ define('BASE_URL', '/');
   </button>
   <div class="collapse navbar-collapse pr-10" id="navbarCollapse">
     <div class="navbar-nav ms-auto py-0">
-      <a href="<?php echo BASE_URL; ?>index.php" class="nav-item nav-link active" id="home">Home</a>
+      <a href="<?php echo BASE_URL; ?>index.php" class="nav-item nav-link" id="home">Home</a>
       <!-- <a href="<?php #echo BASE_URL; ?>about.php" class="nav-item nav-link" id="about">About</a> -->
       <div class="nav-item dropdown">
         <a href="#" id="treatment-menu" class="nav-link dropdown-toggle" data-bs-toggle="dropdown"
@@ -29,7 +29,7 @@ define('BASE_URL', '/');
           <a href="<?php echo BASE_URL; ?>about/dr-about.php" class="dropdown-item">Meet Dr. Kalpesh</a>
         </div>
       </div>
-      <a href="<?php echo BASE_URL; ?>before-after.php" class="nav-item nav-link active" id="home">Before & After</a>
+      <a href="<?php echo BASE_URL; ?>before-after.php" class="nav-item nav-link" id="home">Before & After</a>
       <div class="nav-item dropdown">
         <a href="#" id="treatment-menu" class="nav-link dropdown-toggle" data-bs-toggle="dropdown"
           data-bs-target="treatment-dropdown">Treatment</a>

@@ -164,7 +164,7 @@
                 <div class="col-lg-12">
                     <div class="row g-5">
                         <div class="col-md-7 service-item wow zoomIn" data-wow-delay="0.3s">
-                            <h4 class="display-5 mb-0">Why Bhayani Dental Clinic for professional tooth
+                            <h4 class="display-5 mb-5">Why Bhayani Dental Clinic for professional tooth
                                 whitening?</h4>
                             <ul>
                                 <li>
@@ -181,7 +181,7 @@
                         </div>
                         <div class="col-md-5 service-item wow zoomIn" data-wow-delay="0.6s">
                             <div class="rounded-top overflow-hidden">
-                                <img class="img-fluid" src="../img/pending.jpg" alt="">
+                                <img class="img-fluid" src="../img/service-4.jpg" alt="">
                             </div>
                             <!-- <div class="position-relative bg-light rounded-bottom text-center p-4">
                                 <h5 class="m-0">Teeth Whitening</h5>

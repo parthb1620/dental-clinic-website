@@ -148,9 +148,9 @@
                             <div class="rounded-top overflow-hidden">
                                 <img class="img-fluid" src="../img/service-4.jpg" alt="">
                             </div>
-                            <div class="position-relative bg-light rounded-bottom text-center p-4">
+                            <!-- <div class="position-relative bg-light rounded-bottom text-center p-4">
                                 <h5 class="m-0">Teeth Whitening</h5>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>

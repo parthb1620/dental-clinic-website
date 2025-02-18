@@ -15,16 +15,16 @@
 }
 
 * {
-  font-family: "Roboto Flex", "bootstrap-icons", "Font Awesome 5 Brands", "FontAwesome",
-    "Font Awesome 5 Free", sans-serif !important; /* This would override your custom font */
+  font-family: "Roboto Flex", "bootstrap-icons", "Font Awesome 5 Brands",
+    "FontAwesome", "Font Awesome 5 Free", sans-serif !important; /* This would override your custom font */
 }
 
 body {
   /* background-color: #131314; */
   /* background-color: #121C26; */
   /* font-family: 'Roboto Flex', sans-serif !important; */
-  font-family: "Roboto Flex", "bootstrap-icons", "Font Awesome 5 Brands" ,"FontAwesome",
-    "Font Awesome 5 Free", sans-serif !important;
+  font-family: "Roboto Flex", "bootstrap-icons", "Font Awesome 5 Brands",
+    "FontAwesome", "Font Awesome 5 Free", sans-serif !important;
   /* background-color: #eef9ff; */
   background-color: #eef9ff;
   color: var(--dark);
@@ -334,7 +334,8 @@ h6,
 }
 
 .testimonial-carousel {
-  background: rgba(6, 163, 218, 0.85);
+  background: rgba(49, 52, 53, 0.85);
+  height: 520px;
 }
 
 .testimonial-carousel .owl-nav {
@@ -369,8 +370,8 @@ h6,
 }
 
 .testimonial-carousel .owl-item img {
-  width: 120px;
-  height: 120px;
+  /* width: 120px; */
+  height: 520px;
 }
 
 .dropdown-submenu .dropdown-menu {
@@ -591,7 +592,6 @@ h6,
   height: 700px;
   background-color: #121c26;
 }
-
 
 .bg-about-us-p-2 {
   background: linear-gradient(rgba(9, 30, 62, 0.85), rgba(9, 30, 62, 0.85)),
