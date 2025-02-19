@@ -91,19 +91,19 @@
                             situations where our dentists might recommend a dental crown:</h4>
                         <ul>
                             <li>
-                                <h6 class="text-body">Restore badly worn teeth</h6>
+                                <h5 class="text-body">Restore badly worn teeth</h5>
                             </li>
                             <li>
-                                <h6 class="text-body">Broken teeth</h6>
+                                <h5 class="text-body">Broken teeth</h5>
                             </li>
                             <li>
-                                <h6 class="text-body">Repair a large cavity</h6>
+                                <h5 class="text-body">Repair a large cavity</h5>
                             </li>
                             <li>
-                                <h6 class="text-body">Restore your tooth after a root canal</h6>
+                                <h5 class="text-body">Restore your tooth after a root canal</h5>
                             </li>
                             <li>
-                                <h6 class="text-body">The final step of an implant</h6>
+                                <h5 class="text-body">The final step of an implant</h5>
                             </li>
                         </ul>
                     </div>

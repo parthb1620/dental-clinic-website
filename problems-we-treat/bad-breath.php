@@ -113,20 +113,26 @@
       <div class="row mb-5 g-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="col-lg-12">
           <div class="row g-5">
-            <h2 class="mt-5 mb-0 ">Treatments for bad breath</h2>
+            <h2 class="mb-0 ">
+              Treatments for bad breath</h2>
             <!-- <h6 class="mt-5 mb-0 ">At Bhayani Dental Clinic, we’re dedicated to providing quality
                             care for all patients. If you’re missing a tooth or multiple teeth, we can provide you with
                             long-lasting, high-quality restorations to improve your smile and your confidence.</h6> -->
             <div class="col-md-12 service-item wow zoomIn" data-wow-delay="0.3s">
               <div class="row flex flex-justify border-2">
-                <h4 class="col-md-6 mb-2 ">
-                  Brush your teeth twice per day
-                </h4>
-                <button class="col-md-6 btn" style="color: white">
-                  <i class="fa fa-plus"></i>
-                </button>
+                <a class="btn btn-secondary btn-secondary-cs" data-bs-toggle="collapse" href="#b1" role="button"
+                  aria-expanded="false" aria-controls="b1">
+                  <div class="row">
+                    <h4 class="col-md-11 pt-1" style="text-align: left;">
+                      Brush your teeth twice per day
+                    </h4>
+                    <i class="bi bi-plus col-md-1 fs-3"></i>
+                  </div>
+                </a>
+                <!-- <button class="col-md-6 btn" style="color: white"> -->
+                <!-- </button> -->
               </div>
-              <div>
+              <div class="collapse mt-2" id="b1">
                 <h4 class="text-body">
                   If you often forget to keep up with your daily at-home
                   dental care, this is likely causing a buildup of
@@ -138,14 +144,17 @@
             </div>
             <div class="col-md-12 service-item wow zoomIn" data-wow-delay="0.3s">
               <div class="row flex flex-justify border-2">
-                <h4 class="col-md-6 mb-2 ">
-                  Gum disease treatment
-                </h4>
-                <button class="col-md-6 btn" style="color: white">
-                  <i class="fa fa-plus"></i>
-                </button>
+                <a class="btn btn-secondary btn-secondary-cs" data-bs-toggle="collapse" href="#b2" role="button"
+                  aria-expanded="false" aria-controls="b2">
+                  <div class="row">
+                    <h4 class="col-md-11 pt-1" style="text-align: left;">
+                      Gum disease treatment
+                    </h4>
+                    <i class="bi bi-plus col-md-1 fs-3"></i>
+                  </div>
+                </a>
               </div>
-              <div>
+              <div class="collapse mt-2" id="b2">
                 <h4 class="text-body">
                   Early-stage gum disease is a common cause of chronic bad
                   breath. We can provide targeted treatments for gum disease
@@ -156,14 +165,17 @@
             </div>
             <div class="col-md-12 service-item wow zoomIn" data-wow-delay="0.3s">
               <div class="row flex flex-justify border-2">
-                <h4 class="col-md-6 mb-2 ">
-                  Regular dental cleanings
-                </h4>
-                <button class="col-md-6 btn" style="color: white">
-                  <i class="fa fa-plus"></i>
-                </button>
+                <a class="btn btn-secondary btn-secondary-cs" data-bs-toggle="collapse" href="#b3" role="button"
+                  aria-expanded="false" aria-controls="b3">
+                  <div class="row">
+                    <h4 class="col-md-11 pt-1" style="text-align: left;">
+                      Regular dental cleanings
+                    </h4>
+                    <i class="bi bi-plus col-md-1 fs-3"></i>
+                  </div>
+                </a>
               </div>
-              <div>
+              <div class="collapse mt-2" id="b3">
                 <h4 class="text-body">
                   Over time, our teeth accumulate plaque and tartar that even
                   regular brushing and flossing can’t remove, leading to mouth
@@ -175,12 +187,17 @@
             </div>
             <div class="col-md-12 service-item wow zoomIn" data-wow-delay="0.3s">
               <div class="row flex flex-justify border-2">
-                <h4 class="col-md-6 mb-2 ">Lifestyle changes</h4>
-                <button class="col-md-6 btn" style="color: white">
-                  <i class="fa fa-plus"></i>
-                </button>
+                <a class="btn btn-secondary btn-secondary-cs" data-bs-toggle="collapse" href="#b4" role="button"
+                  aria-expanded="false" aria-controls="b4">
+                  <div class="row">
+                    <h4 class="col-md-11 pt-1" style="text-align: left;">
+                      Lifestyle changes
+                    </h4>
+                    <i class="bi bi-plus col-md-1 fs-3"></i>
+                  </div>
+                </a>
               </div>
-              <div>
+              <div class="collapse mt-2" id="b4">
                 <h4 class="text-body">
                   If you smoke or chew tobacco or regularly consume foods and
                   drinks that cause bad breath, reducing or eliminating these

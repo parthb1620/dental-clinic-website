@@ -40,10 +40,16 @@
                 <!-- <h5 class="text-white text-uppercase mb-3">
                     Keep Your Teeth Healthy
                 </h5> -->
-                <h4 class="display-1 text-white mb-md-4">
+                <!-- <h4 class="display-3 text-white mb-md-4" style="position: relative; bottom: -250px;">
                     THE BHAYANI DENTAL CLINIC DIFFERENCE
                 </h4>
-                <h4 class="display-5 text-white mb-md-4">
+                <h4 class="display-6 text-white mb-md-4" style="position: relative; bottom: -400px;">
+                    Every dental clinic is different. Are we the right one for you?
+                </h4> -->
+                <h4 class="display-3 text-white mb-md-4">
+                    THE BHAYANI DENTAL CLINIC DIFFERENCE
+                </h4>
+                <h4 class="display-6 text-white mb-md-4" style="position: relative; bottom: -100px;">
                     Every dental clinic is different. Are we the right one for you?
                 </h4>
             </div>

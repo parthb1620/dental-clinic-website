@@ -94,7 +94,7 @@
                         </p> -->
                         <h4 class="display-5 mb-0 ">Correct misaligned teeth</h4>
                         <h4 class="text-body fst-italic mb-4">Redefine Your Smile with Braces and Aligners</h4>
-                        <p class="mb-4">
+                        <p class="mb-4 text-body">
                             Achieve a flawless, confident smile with advanced orthodontic solutions designed for your
                             comfort and lifestyle. Whether you prefer discreet clear aligners or the reliable precision
                             of braces, modern options ensure effective results with minimal disruption to your daily

@@ -155,7 +155,7 @@
                                 <img class="img-fluid height-300" src="img/service1.jpg" alt="" />
                             </div>
                             <div class="position-relative bg-light rounded-bottom text-center p-4">
-                                <h5 class="m-0">Cosmetic Dentistry</h5>
+                                <h4 class="m-0"><b>Cosmetic Dentistry</b></h4>
                             </div>
                         </div>
                         <div class="col-md-6 service-item wow zoomIn" data-wow-delay="0.9s">
@@ -163,7 +163,7 @@
                                 <img class="img-fluid height-300" src="img/dental-implants-home.jpg" alt="" />
                             </div>
                             <div class="position-relative bg-light rounded-bottom text-center p-4">
-                                <h5 class="m-0">Dental Implants</h5>
+                                <h4 class="m-0"><b>Dental Implants</b></h4>
                             </div>
                         </div>
                     </div>
@@ -177,7 +177,7 @@
                                 <img class="img-fluid height-300" src="img/bridges-home.jpg" alt="" />
                             </div>
                             <div class="position-relative bg-light rounded-bottom text-center p-4">
-                                <h5 class="m-0">Dental Bridges</h5>
+                                <h4 class="m-0"><b>Dental Bridges</b></h4>
                             </div>
                         </div>
                         <div class="col-md-4 service-item wow zoomIn" data-wow-delay="0.6s">
@@ -186,7 +186,7 @@
                                     alt="" />
                             </div>
                             <div class="position-relative bg-light rounded-bottom text-center p-4">
-                                <h5 class="m-0">Teeth Whitening</h5>
+                                <h4 class="m-0"><b>Teeth Whitening</b></h4>
                             </div>
                         </div>
                         <div class="col-md-4 service-item wow zoomIn" data-wow-delay="0.6s">
@@ -196,7 +196,7 @@
                                 </div>
                             </div>
                             <div class="position-relative bg-light rounded-bottom text-center p-4">
-                                <h5 class="m-0">Crowns</h5>
+                                <h4 class="m-0"><b>Crowns</b></h4>
                             </div>
                         </div>
                     </div>
@@ -224,7 +224,7 @@
                 <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                     <div class="team-item">
                         <div class="position-relative rounded-top" style="z-index: 1">
-                            <img class="img-fluid rounded-top w-100" src="img/pending.jpg" alt="" />
+                            <img class="img-fluid rounded-top w-100" src="img/dr.jpg" alt="" />
                             <div
                                 class="position-absolute top-100 start-50 translate-middle bg-light rounded p-2 d-flex">
                                 <a class="btn btn-primary btn-square m-1" href="#"><i
