@@ -1,6 +1,5 @@
 <?php
 // include_once("index.html");
-
 ?>
 
 <!DOCTYPE html>
@@ -156,7 +155,7 @@
                                 <img class="img-fluid height-300" src="img/service1.jpg" alt="" />
                             </div>
                             <div class="position-relative bg-light rounded-bottom text-center p-4">
-                                <h5 class="m-0">Cosmetic Dentistry</h5>
+                                <h4 class="m-0"><b>Cosmetic Dentistry</b></h4>
                             </div>
                         </div>
                         <div class="col-md-6 service-item wow zoomIn" data-wow-delay="0.9s">
@@ -164,7 +163,7 @@
                                 <img class="img-fluid height-300" src="img/dental-implants-home.jpg" alt="" />
                             </div>
                             <div class="position-relative bg-light rounded-bottom text-center p-4">
-                                <h5 class="m-0">Dental Implants</h5>
+                                <h4 class="m-0"><b>Dental Implants</b></h4>
                             </div>
                         </div>
                     </div>
@@ -178,16 +177,16 @@
                                 <img class="img-fluid height-300" src="img/bridges-home.jpg" alt="" />
                             </div>
                             <div class="position-relative bg-light rounded-bottom text-center p-4">
-                                <h5 class="m-0">Dental Bridges</h5>
+                                <h4 class="m-0"><b>Dental Bridges</b></h4>
                             </div>
                         </div>
                         <div class="col-md-4 service-item wow zoomIn" data-wow-delay="0.6s">
                             <div class="rounded-top overflow-hidden">
-                                <img class="img-fluid image-container-all height-300" src="img/teeth-whitening-home.jpg"
+                                <img class="img-fluid image-container-all height-300 width-300" src="img/teeth-whitening-home.jpg"
                                     alt="" />
                             </div>
                             <div class="position-relative bg-light rounded-bottom text-center p-4">
-                                <h5 class="m-0">Teeth Whitening</h5>
+                                <h4 class="m-0"><b>Teeth Whitening</b></h4>
                             </div>
                         </div>
                         <div class="col-md-4 service-item wow zoomIn" data-wow-delay="0.6s">
@@ -197,7 +196,7 @@
                                 </div>
                             </div>
                             <div class="position-relative bg-light rounded-bottom text-center p-4">
-                                <h5 class="m-0">Crowns</h5>
+                                <h4 class="m-0"><b>Crowns</b></h4>
                             </div>
                         </div>
                     </div>
@@ -225,17 +224,17 @@
                 <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                     <div class="team-item">
                         <div class="position-relative rounded-top" style="z-index: 1">
-                            <img class="img-fluid rounded-top w-100" src="img/pending.jpg" alt="" />
+                            <img class="img-fluid rounded-top w-100" src="img/dr.jpg" alt="" />
                             <div
                                 class="position-absolute top-100 start-50 translate-middle bg-light rounded p-2 d-flex">
                                 <a class="btn btn-primary btn-square m-1" href="#"><i
                                         class="fab fa-twitter fw-normal"></i></a>
                                 <a class="btn btn-primary btn-square m-1" href="#"><i
-                                        class="fab fa-facebook-f fw-normal"></i></a>
+                                        class="bi bi-facebook fw-normal"></i></a>
                                 <a class="btn btn-primary btn-square m-1" href="#"><i
                                         class="fab fa-linkedin-in fw-normal"></i></a>
                                 <a class="btn btn-primary btn-square m-1" href="#"><i
-                                        class="fab fa-instagram fw-normal"></i></a>
+                                        class="bi bi-instagram fw-normal"></i></a>
                             </div>
                         </div>
                         <div class="team-text position-relative bg-light text-center rounded-bottom p-4 pt-5">
@@ -249,57 +248,27 @@
     </div>
     <!-- Team End -->
 
-    <!-- Footer Start -->
-    <div class="container-fluid bg-dark text-light py-5 wow fadeInUp" data-wow-delay="0.3s" style="margin-top: -75px">
-        <div class="container pt-5">
-            <div class="row g-5 pt-4">
-                <div class="col-lg-6 col-md-6">
-                    <h3 class="text-white mb-4">Get In Touch</h3>
-                    <p class="mb-2">
-                        <i class="bi bi-geo-alt text-primary me-2"></i>C- 301/302, Keshav
-                        Shrushti, Alankar Complex, Oppo. Kapodra Police Station, Vatacha
-                        Road, Surat.
-                    </p>
-                    <!-- <p class="mb-2"><i class="bi bi-envelope-open text-primary me-2"></i>info@example.com</p> -->
-                    <p class="mb-0">
-                        <i class="bi bi-telephone text-primary me-2"></i>0261- 7966258
-                    </p>
-                </div>
-                <div class="col-lg-6 col-md-6">
-                    <h3 class="text-white mb-4">Follow Us</h3>
-                    <div class="d-flex">
-                        <!-- <a class="btn btn-lg btn-primary btn-lg-square rounded me-2" href="#"><i
-                                class="fab fa-twitter fw-normal"></i></a> -->
-                        <a class="btn btn-lg btn-primary btn-lg-square rounded me-2" href="#"><i
-                                class="fab fa-facebook-f fw-normal"></i></a>
-                        <!-- <a class="btn btn-lg btn-primary btn-lg-square rounded me-2" href="#"><i
-                                class="fab fa-linkedin-in fw-normal"></i></a> -->
-                        <a class="btn btn-lg btn-primary btn-lg-square rounded"
-                            href="https://www.instagram.com/bhayani_dental_clinic"><i
-                                class="fab fa-instagram fw-normal"></i></a>
+    <!-- gallery start -->
+    <div class="container-fluid pb-5 mb-5 wow fadeInUp" data-wow-delay="0.1s">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-9">
+                    <div class="owl-carousel testimonial-carousel rounded wow zoomIn" data-wow-delay="0.6s">
+                        <?php for ($i = 1; $i <= 16; $i++) {
+                               echo "<div class='testimonial-item text-center text-white'>
+                                    <img class='img-fluid mx-auto rounded' src='img/gallery/g$i.jpg' alt=''>
+                                </div>";
+                            }
+                        ?>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <div class="container-fluid text-light py-4" style="background: #051225">
-        <div class="container">
-            <div class="row g-0">
-                <div class="col-md-6 text-center text-md-start">
-                    <p class="mb-md-0">
-                        &copy;
-                        <a class="text-white border-bottom" href="#">bhayanidentalclinic.com</a>. All Rights Reserved.
-                    </p>
-                </div>
-                <div class="col-md-6 text-center text-md-end">
-                    <p class="mb-0">
-                        Designed by
-                        <a class="text-white border-bottom" href="#">DexterLabs</a>
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
+    <!-- gallery end -->
+
+    <!-- Footer Start -->
+    <?php include 'component/footer.php' ?>
     <!-- Footer End -->
 
     <!-- Back to Top -->

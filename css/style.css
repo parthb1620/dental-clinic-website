@@ -15,16 +15,16 @@
 }
 
 * {
-  font-family: "Roboto Flex", "bootstrap-icons", "Font Awesome 5 Brands", "FontAwesome",
-    "Font Awesome 5 Free", sans-serif !important; /* This would override your custom font */
+  font-family: "Roboto Flex", "bootstrap-icons", "Font Awesome 5 Brands",
+    "FontAwesome", "Font Awesome 5 Free", sans-serif !important; /* This would override your custom font */
 }
 
 body {
   /* background-color: #131314; */
   /* background-color: #121C26; */
   /* font-family: 'Roboto Flex', sans-serif !important; */
-  font-family: "Roboto Flex", "bootstrap-icons", "Font Awesome 5 Brands" ,"FontAwesome",
-    "Font Awesome 5 Free", sans-serif !important;
+  font-family: "Roboto Flex", "bootstrap-icons", "Font Awesome 5 Brands",
+    "FontAwesome", "Font Awesome 5 Free", sans-serif !important;
   /* background-color: #eef9ff; */
   background-color: #eef9ff;
   color: var(--dark);
@@ -80,6 +80,16 @@ h6,
 .btn-primary,
 .btn-secondary {
   color: #ffffff;
+}
+
+.btn-secondary-cs {
+  width: 100%;
+  position: relative;
+  background-color: aliceblue;
+  text-align: left;
+  color: #121c26;
+  /* border: none; */
+  border: 2px solid #091e3e;
 }
 
 .btn-primary:hover {
@@ -238,7 +248,7 @@ h6,
 
 .hero-header {
   background: linear-gradient(rgba(9, 30, 62, 0.85), rgba(9, 30, 62, 0.85)),
-    url(../img/carousel-1.jpg) center center no-repeat;
+    url(../img/about-1-bg.jpg) center center no-repeat;
   background-size: cover;
 }
 
@@ -334,7 +344,8 @@ h6,
 }
 
 .testimonial-carousel {
-  background: rgba(6, 163, 218, 0.85);
+  background: rgba(49, 52, 53, 0.85);
+  height: 520px;
 }
 
 .testimonial-carousel .owl-nav {
@@ -369,8 +380,8 @@ h6,
 }
 
 .testimonial-carousel .owl-item img {
-  width: 120px;
-  height: 120px;
+  /* width: 120px; */
+  height: 520px;
 }
 
 .dropdown-submenu .dropdown-menu {
@@ -436,9 +447,16 @@ h6,
   font-size: 36px !important;
 }
 
+.navbar-img-width {
+  width: 200px;
+}
+
 @media (max-width: 991.98px) {
   .fs4 {
     font-size: 24px !important;
+  }
+  .navbar-img-width {
+    width: 180px;
   }
 }
 
@@ -446,11 +464,17 @@ h6,
   .fs4 {
     font-size: 20px !important;
   }
+  .navbar-img-width {
+    width: 160px;
+  }
 }
 
 @media (max-width: 540px) {
   .fs4 {
     font-size: 18px !important;
+  }
+  .navbar-img-width {
+    width: 140px;
   }
 }
 
@@ -582,9 +606,15 @@ h6,
 }
 
 .about-us-bg {
-  background: url(../img/carousel-1.jpg) center center no-repeat;
+  background: url(../img/about-middle.JPG) center center no-repeat;
   background-size: cover;
   height: 700px;
+}
+
+.dr-img-bg {
+  background: url(../img/dr-2.JPG) center center no-repeat;
+  background-size: cover;
+  height: 600px;
 }
 
 .about-us-bg-right {
@@ -592,9 +622,13 @@ h6,
   background-color: #121c26;
 }
 
+.dr-about-bg-right {
+  height: 500px;
+  /* background-color: #121c26; */
+}
 
 .bg-about-us-p-2 {
   background: linear-gradient(rgba(9, 30, 62, 0.85), rgba(9, 30, 62, 0.85)),
-    url(../img/carousel-1.jpg) center center no-repeat;
+    url(../img/about-1-bg.JPG) center center no-repeat;
   background-size: cover;
 }

@@ -91,19 +91,19 @@
                             situations where our dentists might recommend a dental crown:</h4>
                         <ul>
                             <li>
-                                <h6 class="text-body">Restore badly worn teeth</h6>
+                                <h5 class="text-body">Restore badly worn teeth</h5>
                             </li>
                             <li>
-                                <h6 class="text-body">Broken teeth</h6>
+                                <h5 class="text-body">Broken teeth</h5>
                             </li>
                             <li>
-                                <h6 class="text-body">Repair a large cavity</h6>
+                                <h5 class="text-body">Repair a large cavity</h5>
                             </li>
                             <li>
-                                <h6 class="text-body">Restore your tooth after a root canal</h6>
+                                <h5 class="text-body">Restore your tooth after a root canal</h5>
                             </li>
                             <li>
-                                <h6 class="text-body">The final step of an implant</h6>
+                                <h5 class="text-body">The final step of an implant</h5>
                             </li>
                         </ul>
                     </div>
@@ -148,9 +148,9 @@
                             <div class="rounded-top overflow-hidden">
                                 <img class="img-fluid" src="../img/service-4.jpg" alt="">
                             </div>
-                            <div class="position-relative bg-light rounded-bottom text-center p-4">
+                            <!-- <div class="position-relative bg-light rounded-bottom text-center p-4">
                                 <h5 class="m-0">Teeth Whitening</h5>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>

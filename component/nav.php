@@ -5,8 +5,9 @@ define('BASE_URL', '/');
   <a href="<?php echo BASE_URL; ?>index.php" class="navbar-brand p-0">
     <!-- <h1 class="m-0 text-primary fs4"><i class="fa fa-tooth me-2"></i>Bhayani Dental Clinic
     </h1> -->
-    <h1 class="m-0 text-primary fs4">Bhayani Dental Clinic
-    </h1>
+    <!-- <h1 class="m-0 text-primary fs4">Bhayani Dental Clinic
+    </h1> -->
+    <img class="navbar navbar-brand navbar-img-width" style="color: white;" src="../img/logo.png">
   </a>
   <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
     <!-- <span class="navbar-toggler-icon"></span> -->
@@ -18,18 +19,18 @@ define('BASE_URL', '/');
   </button>
   <div class="collapse navbar-collapse pr-10" id="navbarCollapse">
     <div class="navbar-nav ms-auto py-0">
-      <a href="<?php echo BASE_URL; ?>index.php" class="nav-item nav-link active" id="home">Home</a>
+      <a href="<?php echo BASE_URL; ?>index.php" class="nav-item nav-link" id="home">Home</a>
       <!-- <a href="<?php #echo BASE_URL; ?>about.php" class="nav-item nav-link" id="about">About</a> -->
       <div class="nav-item dropdown">
         <a href="#" id="treatment-menu" class="nav-link dropdown-toggle" data-bs-toggle="dropdown"
           data-bs-target="about us-dropdown">About Us</a>
         <div class="dropdown-menu m-0 sub-dropdown-bg" id="treatment-dropdown">
-          <a href="<?php echo BASE_URL; ?>about/clinic-about.php" class="dropdown-item">The Bhayani Clinic
+          <a href="<?php echo BASE_URL; ?>about/clinic-about.php" class="dropdown-item">The Bhayani Dental Clinic
             Difference</a>
           <a href="<?php echo BASE_URL; ?>about/dr-about.php" class="dropdown-item">Meet Dr. Kalpesh</a>
         </div>
       </div>
-      <a href="<?php echo BASE_URL; ?>before-after.php" class="nav-item nav-link active" id="home">Before & After</a>
+      <a href="<?php echo BASE_URL; ?>before-after.php" class="nav-item nav-link" id="home">Before & After</a>
       <div class="nav-item dropdown">
         <a href="#" id="treatment-menu" class="nav-link dropdown-toggle" data-bs-toggle="dropdown"
           data-bs-target="treatment-dropdown">Treatment</a>
@@ -42,7 +43,7 @@ define('BASE_URL', '/');
               <a href="<?php echo BASE_URL; ?>general/bridges.php" class="dropdown-item">Bridges</a>
               <a href="<?php echo BASE_URL; ?>general/root-canal.php" class="dropdown-item">Root Canal</a>
               <a href="<?php echo BASE_URL; ?>general/gum-therapy.php" class="dropdown-item">Gum Therapy</a>
-              <a href="<?php echo BASE_URL; ?>general/dental-fillings.php" class="dropdown-item">Detnal Fillings</a>
+              <a href="<?php echo BASE_URL; ?>general/dental-fillings.php" class="dropdown-item">Dental Fillings</a>
               <a href="<?php echo BASE_URL; ?>general/dentures.php" class="dropdown-item">Dentures</a>
               <a href="<?php echo BASE_URL; ?>general/night-guards.php" class="dropdown-item">Night Guards</a>
             </div>
@@ -89,7 +90,7 @@ define('BASE_URL', '/');
           </div>
         </div>
       </div>
-      <a href="<?php echo BASE_URL; ?>contact.php" class="nav-item nav-link" id="contact">Contact</a>
+      <a href="<?php echo BASE_URL; ?>contact.php" class="nav-item nav-link" id="contact">Contact Us</a>
     </div>
   </div>
 </nav>

@@ -159,7 +159,7 @@
                         <div class="row g-5">
                             <div class="col-md-5 service-item wow zoomIn" data-wow-delay="0.3s">
                                 <div class="rounded-top overflow-hidden image-container-x">
-                                    <img class="img-fluid" src="../img/general-tratments/01-bridges.jpg" alt="">
+                                    <img class="img-fluid" src="../img/service-4.jpg" alt="">
                                 </div>
                             </div>
                             <div class="col-md-7 service-item wow zoomIn" data-wow-delay="0.6s">

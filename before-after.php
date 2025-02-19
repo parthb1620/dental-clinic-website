@@ -57,7 +57,7 @@
     <div class="container-fluid bg-primary py-5 hero-header mb-5">
         <div class="row py-3">
             <div class="col-12 text-center">
-                <h1 class="display-3 text-white animated zoomIn">Before/Afters</h1>
+                <h1 class="display-3 text-white animated zoomIn">Before & After</h1>
                 <!-- <a href="index.html" class="h4 text-white">Home</a>
                 <i class="far fa-circle text-white px-2"></i>
                 <a href="" class="h4 text-white">Contact</a> -->
@@ -72,7 +72,7 @@
         <div class="container">
             <div class="row wow fadeInUp" data-wow-delay="0.1s">
                 <div class="col-lg-12">
-                    <h5 class="text-center text-uppercase display-6">Implants</h5>
+                    <h5 class="text-center text-uppercase display-5"><b>Implants</b></h5>
                     <div class="row g-5 mt-2">
                         <div class="col-md-4 service-item wow zoomIn" data-wow-delay="0.3s">
                             <div class="rounded-top overflow-hidden image-container-implants">
@@ -95,7 +95,7 @@
 
             <div class="row wow fadeInUp mt-5" data-wow-delay="0.3s">
                 <div class="col-lg-12">
-                    <h5 class="text-center text-uppercase display-6">Crowns</h5>
+                    <h5 class="text-center text-uppercase display-5"><b>Crowns</b></h5>
                     <div class="row g-5 mt-2">
                         <div class="col-md-6 service-item wow zoomIn" data-wow-delay="0.3s">
                             <div class="rounded-top overflow-hidden">
@@ -113,7 +113,7 @@
 
             <div class="row wow fadeInUp mt-5" data-wow-delay="0.3s">
                 <div class="col-lg-12">
-                    <h5 class="text-center text-uppercase display-6">Bridges</h5>
+                    <h5 class="text-center text-uppercase display-5"><b>Bridges</b></h5>
                     <div class="row g-5 mt-2">
                         <div class="col-md-6 service-item wow zoomIn" data-wow-delay="0.3s">
                             <div class="rounded-top overflow-hidden">
@@ -131,7 +131,7 @@
 
             <div class="row wow fadeInUp mt-5" data-wow-delay="0.3s">
                 <div class="col-lg-12">
-                    <h5 class="text-center text-uppercase display-6">Dental Fillings</h5>
+                    <h5 class="text-center text-uppercase display-5"><b>Dental Fillings</b></h5>
                     <div class="row g-5 mt-2">
                         <div class="col-md-6 service-item wow zoomIn" data-wow-delay="0.3s">
                             <div class="rounded-top overflow-hidden image-container-all height-500">
@@ -154,7 +154,7 @@
 
             <div class="row wow fadeInUp mt-5" data-wow-delay="0.3s">
                 <div class="col-lg-12">
-                    <h5 class="text-center text-uppercase display-6">Teeth Whitening</h5>
+                    <h5 class="text-center text-uppercase display-5"><b>Teeth Whitening</b></h5>
                     <div class="row g-5 mt-2">
                         <div class="col-md-4 service-item wow zoomIn" data-wow-delay="0.3s">
                             <div class="rounded-top overflow-hidden image-container-all height-400">
@@ -177,7 +177,7 @@
 
             <div class="row wow fadeInUp mt-5" data-wow-delay="0.3s">
                 <div class="col-lg-12">
-                    <h5 class="text-center text-uppercase display-6">Bonding</h5>
+                    <h5 class="text-center text-uppercase display-5"><b>Bonding</b></h5>
                     <div class="row g-5 mt-2">
                         <div class="col-md-6 service-item wow zoomIn" data-wow-delay="0.3s">
                             <div class="rounded-top overflow-hidden image-container-all height-1000">
@@ -195,7 +195,7 @@
 
             <div class="row wow fadeInUp mt-5" data-wow-delay="0.3s">
                 <div class="col-lg-12">
-                    <h5 class="text-center text-uppercase display-6">Smile Designing</h5>
+                    <h5 class="text-center text-uppercase display-5"><b>Smile Designing</b></h5>
                     <div class="row g-5 mt-2">
                         <div class="col-md-4 service-item wow zoomIn" data-wow-delay="0.3s">
                             <div class="rounded-top overflow-hidden image-container-all height-400">
