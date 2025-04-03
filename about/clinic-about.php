@@ -34,7 +34,7 @@
 
     <div class="container-fluid p-0 position-relative">
         <!-- <source src="video/intro.mp4" type="video/mp4" /> -->
-        <img class="w-100" src="../img/service-4.jpg">
+        <img class="w-100" src="../img/service-4.JPG">
         <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
             <div class="p-3" style="max-width: 900px">
                 <!-- <h5 class="text-white text-uppercase mb-3">
@@ -46,12 +46,12 @@
                 <h4 class="display-6 text-white mb-md-4" style="position: relative; bottom: -400px;">
                     Every dental clinic is different. Are we the right one for you?
                 </h4> -->
-                <h4 class="display-3 text-white mb-md-4">
+                <!-- <h4 class="display-3 text-white mb-md-4">
                     THE BHAYANI DENTAL CLINIC DIFFERENCE
                 </h4>
                 <h4 class="display-6 text-white mb-md-4" style="position: relative; bottom: -100px;">
                     Every dental clinic is different. Are we the right one for you?
-                </h4>
+                </h4> -->
             </div>
         </div>
     </div>

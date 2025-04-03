@@ -74,19 +74,24 @@
                 <div class="col-lg-12">
                     <h5 class="text-center text-uppercase display-5"><b>Implants</b></h5>
                     <div class="row g-5 mt-2">
-                        <div class="col-md-4 service-item wow zoomIn" data-wow-delay="0.3s">
+                        <div class="col-md-3 service-item wow zoomIn" data-wow-delay="0.3s">
                             <div class="rounded-top overflow-hidden image-container-implants">
-                                <img class="img-fluid" src="../img/before-after/implants-1.jpg" alt="">
+                                <img class="img-fluid" src="../img/before-after/implants-1.jpeg" alt="">
                             </div>
                         </div>
-                        <div class="col-md-4 service-item wow zoomIn" data-wow-delay="0.6s">
+                        <div class="col-md-3 service-item wow zoomIn" data-wow-delay="0.6s">
                             <div class="rounded-top overflow-hidden image-container-implants">
-                                <img class="img-fluid" src="../img/before-after/implants-2.jpg" alt="">
+                                <img class="img-fluid" src="../img/before-after/implants-2.jpeg" alt="">
                             </div>
                         </div>
-                        <div class="col-md-4 service-item wow zoomIn" data-wow-delay="0.s">
+                        <div class="col-md-3 service-item wow zoomIn" data-wow-delay="0.s">
                             <div class="rounded-top overflow-hidden image-container-implants">
-                                <img class="img-fluid" src="../img/before-after/implants-3.jpg" alt="">
+                                <img class="img-fluid" src="../img/before-after/implants-3.jpeg" alt="">
+                            </div>
+                        </div>
+                        <div class="col-md-3 service-item wow zoomIn" data-wow-delay="0.s">
+                            <div class="rounded-top overflow-hidden image-container-implants">
+                                <img class="img-fluid" src="../img/before-after/implants-4.jpeg" alt="">
                             </div>
                         </div>
                     </div>
@@ -98,13 +103,13 @@
                     <h5 class="text-center text-uppercase display-5"><b>Crowns</b></h5>
                     <div class="row g-5 mt-2">
                         <div class="col-md-6 service-item wow zoomIn" data-wow-delay="0.3s">
-                            <div class="rounded-top overflow-hidden">
-                                <img class="img-fluid" src="../img/before-after/crowns-1.jpg" alt="">
+                            <div class="rounded-top overflow-hidden image-container-crowns-final">
+                                <img class="img-fluid" src="../img/before-after/crowns-1-f.jpeg" alt="">
                             </div>
                         </div>
                         <div class="col-md-6 service-item wow zoomIn" data-wow-delay="0.6s">
-                            <div class="rounded-top overflow-hidden" style="height: 145px">
-                                <img class="img-fluid" src="../img/before-after/crowns-2.jpg" alt="">
+                            <div class="rounded-top overflow-hidden image-container-crowns-final">
+                                <img class="img-fluid" src="../img/before-after/crowns-2-f.png" alt="">
                             </div>
                         </div>
                     </div>
@@ -156,26 +161,26 @@
                 <div class="col-lg-12">
                     <h5 class="text-center text-uppercase display-5"><b>Teeth Whitening</b></h5>
                     <div class="row g-5 mt-2">
-                        <div class="col-md-4 service-item wow zoomIn" data-wow-delay="0.3s">
+                        <div class="col-md-6 service-item wow zoomIn" data-wow-delay="0.3s">
                             <div class="rounded-top overflow-hidden image-container-all height-400">
                                 <img class="img-fluid" src="../img/before-after/teeth-whitening-1.jpg" alt="">
                             </div>
                         </div>
-                        <div class="col-md-4 service-item wow zoomIn" data-wow-delay="0.6s">
+                        <div class="col-md-6 service-item wow zoomIn" data-wow-delay="0.6s">
                             <div class="rounded-top overflow-hidden image-container-all height-400">
                                 <img class="img-fluid" src="../img/before-after/teeth-whitening-2.jpg" alt="">
                             </div>
                         </div>
-                        <div class="col-md-4 service-item wow zoomIn" data-wow-delay="0.6s">
+                        <!-- <div class="col-md-4 service-item wow zoomIn" data-wow-delay="0.6s">
                             <div class="rounded-top overflow-hidden image-container-all height-400">
                                 <img class="img-fluid" src="../img/before-after/teeth-whitening-3.jpg" alt="">
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
 
-            <div class="row wow fadeInUp mt-5" data-wow-delay="0.3s">
+            <!-- <div class="row wow fadeInUp mt-5" data-wow-delay="0.3s">
                 <div class="col-lg-12">
                     <h5 class="text-center text-uppercase display-5"><b>Bonding</b></h5>
                     <div class="row g-5 mt-2">
@@ -191,7 +196,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
             <div class="row wow fadeInUp mt-5" data-wow-delay="0.3s">
                 <div class="col-lg-12">
@@ -199,17 +204,17 @@
                     <div class="row g-5 mt-2">
                         <div class="col-md-4 service-item wow zoomIn" data-wow-delay="0.3s">
                             <div class="rounded-top overflow-hidden image-container-all height-400">
-                                <img class="img-fluid" src="../img/before-after/teeth-whitening-1.jpg" alt="">
+                                <img class="img-fluid" src="../img/before-after/smile-design-1.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-md-4 service-item wow zoomIn" data-wow-delay="0.6s">
                             <div class="rounded-top overflow-hidden image-container-all height-400">
-                                <img class="img-fluid" src="../img/before-after/teeth-whitening-2.jpg" alt="">
+                                <img class="img-fluid" src="../img/before-after/smile-design-2.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-md-4 service-item wow zoomIn" data-wow-delay="0.6s">
                             <div class="rounded-top overflow-hidden image-container-all height-400">
-                                <img class="img-fluid" src="../img/before-after/teeth-whitening-3.jpg" alt="">
+                                <img class="img-fluid" src="../img/before-after/smile-design-3.jpg" alt="">
                             </div>
                         </div>
                     </div>

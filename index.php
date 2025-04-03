@@ -182,8 +182,8 @@
                         </div>
                         <div class="col-md-4 service-item wow zoomIn" data-wow-delay="0.6s">
                             <div class="rounded-top overflow-hidden">
-                                <img class="img-fluid image-container-all height-300 width-300" src="img/teeth-whitening-home.jpg"
-                                    alt="" />
+                                <img class="img-fluid image-container-all height-300 width-300"
+                                    src="img/teeth-whitening-home.jpg" alt="" />
                             </div>
                             <div class="position-relative bg-light rounded-bottom text-center p-4">
                                 <h4 class="m-0"><b>Teeth Whitening</b></h4>
@@ -224,7 +224,7 @@
                 <div class="col-lg-4 wow slideInUp" data-wow-delay="0.3s">
                     <div class="team-item">
                         <div class="position-relative rounded-top" style="z-index: 1">
-                            <img class="img-fluid rounded-top w-100" src="img/dr.jpg" alt="" />
+                            <img class="img-fluid rounded-top w-100" src="img/dr.JPG" alt="" />
                             <div
                                 class="position-absolute top-100 start-50 translate-middle bg-light rounded p-2 d-flex">
                                 <a class="btn btn-primary btn-square m-1" href="#"><i
@@ -255,10 +255,12 @@
                 <div class="col-lg-9">
                     <div class="owl-carousel testimonial-carousel rounded wow zoomIn" data-wow-delay="0.6s">
                         <?php for ($i = 1; $i <= 16; $i++) {
-                               echo "<div class='testimonial-item text-center text-white'>
+                            if ($i == 9)
+                                continue;
+                            echo "<div class='testimonial-item text-center text-white'>
                                     <img class='img-fluid mx-auto rounded' src='img/gallery/g$i.jpg' alt=''>
                                 </div>";
-                            }
+                        }
                         ?>
                     </div>
                 </div>

@@ -240,7 +240,7 @@
             <div class="row my-5 wow fadeInUp" data-wow-delay="0.1s">
                 <div class="col-lg-12 mt-5">
                     <div class="row g-5">
-                        <div class="col-md-4 service-item wow zoomIn" data-wow-delay="0.3s">
+                        <!-- <div class="col-md-4 service-item wow zoomIn" data-wow-delay="0.3s">
                             <div class="rounded-top overflow-hidden image-container-implants">
                                 <img class="img-fluid" src="../img/surgical/implants-1.jpg" alt="">
                             </div>
@@ -253,6 +253,16 @@
                         <div class="col-md-4 service-item wow zoomIn" data-wow-delay="0.s">
                             <div class="rounded-top overflow-hidden image-container-implants">
                                 <img class="img-fluid" src="../img/surgical/implants-3.jpg" alt="">
+                            </div>
+                        </div> -->
+                        <div class="col-md-6 service-item wow zoomIn" data-wow-delay="0.3s">
+                            <div class="rounded-top overflow-hidden image-container-implants">
+                                <img class="img-fluid" src="../img/surgical/implant-1-final.png" alt="">
+                            </div>
+                        </div>
+                        <div class="col-md-6 service-item wow zoomIn" data-wow-delay="0.3s">
+                            <div class="rounded-top overflow-hidden image-container-implants">
+                                <img class="img-fluid" src="../img/surgical/implant-2-final.jpeg" alt="">
                             </div>
                         </div>
                     </div>

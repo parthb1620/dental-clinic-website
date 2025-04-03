@@ -166,22 +166,23 @@
             </div>
             <div class="row my-5 wow fadeInUp" data-wow-delay="0.1s">
                 <div class="col-lg-12">
-                    <!-- <div class="row g-5"> -->
-                    <div class="row mt-4 service-item wow zoomIn" data-wow-delay="0.3s">
-                        <div class="rounded-top overflow-hidden image-container-crowns">
-                            <img class="img-fluid" src="../img/general-tratments/crowns-1.jpg" alt="">
+                    <div class="row g-5">
+                        <div class="col-md-6 service-item wow zoomIn" data-wow-delay="0.3s">
+                            <div class="rounded-top overflow-hidden image-container-crowns-final">
+                                <img class="img-fluid" src="../img/general-tratments/crowns-1-f.jpeg" alt="">
+                            </div>
+                        </div>
+                        <div class="col-md-6 service-item wow zoomIn" data-wow-delay="0.6s">
+                            <div class="rounded-top overflow-hidden image-container-crowns-final">
+                                <img class="img-fluid" src="../img/general-tratments/crowns-2-f.png" alt="">
+                            </div>
                         </div>
                     </div>
-                    <div class="row mt-5 service-item wow zoomIn" data-wow-delay="0.6s">
-                        <div class="rounded-top overflow-hidden image-container-crowns">
-                            <img class="img-fluid" src="../img/general-tratments/crowns-2.jpg" alt="">
-                        </div>
-                    </div>
-                    <div class="row mt-5 service-item wow zoomIn" data-wow-delay="0.s">
+                    <!-- <div class="row mt-5 service-item wow zoomIn" data-wow-delay="0.s">
                         <div class="rounded-top overflow-hidden image-container-crowns">
                             <img class="img-fluid" src="../img/general-tratments/crowns-3.jpg" alt="">
                         </div>
-                    </div>
+                    </div> -->
                     <!-- </div> -->
                 </div>
             </div>

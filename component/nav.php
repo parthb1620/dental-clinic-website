@@ -27,7 +27,7 @@ define('BASE_URL', '/');
         <div class="dropdown-menu m-0 sub-dropdown-bg" id="treatment-dropdown">
           <a href="<?php echo BASE_URL; ?>about/clinic-about.php" class="dropdown-item">The Bhayani Dental Clinic
             Difference</a>
-          <a href="<?php echo BASE_URL; ?>about/dr-about.php" class="dropdown-item">Meet Dr. Kalpesh</a>
+          <a href="<?php echo BASE_URL; ?>about/dr-about.php" class="dropdown-item">Meet Dr. Kalpesh Bhayani</a>
         </div>
       </div>
       <a href="<?php echo BASE_URL; ?>before-after.php" class="nav-item nav-link" id="home">Before & After</a>
@@ -54,7 +54,7 @@ define('BASE_URL', '/');
             <div class="dropdown-menu m-0 sub-dropdown-bg-dark">
               <a href="<?php echo BASE_URL; ?>cosmatic/braces-aligners.php" class="dropdown-item">Braces & Aligners</a>
               <a href="<?php echo BASE_URL; ?>cosmatic/teeth-whitening.php" class="dropdown-item">Teeth Whitening</a>
-              <a href="<?php echo BASE_URL; ?>cosmatic/bonding.php" class="dropdown-item">Bonding</a>
+              <!-- <a href="<?php echo BASE_URL; ?>cosmatic/bonding.php" class="dropdown-item">Bonding</a> -->
               <a href="<?php echo BASE_URL; ?>cosmatic/vaneers.php" class="dropdown-item">Veneers (Smile Design)</a>
               <a href="<?php echo BASE_URL; ?>cosmatic/smile-makeovers.php" class="dropdown-item">Smile Makeovers</a>
             </div>

@@ -136,7 +136,7 @@
                                             <h6 class="text-body">Poor tooth alignmeny</h6>
                                         </li>
                                         <li>
-                                            <h6 class="text-body">Bite issues</h6 >
+                                            <h6 class="text-body">Bite issues</h6>
                                         </li>
                                         <li>
                                             <h6 class="text-body">Difficulty chewing</h6>
@@ -153,8 +153,9 @@
                                 <!-- <p class="text-body mb-1">This is everything dental care should be.</p> -->
                         </div>
                         <div class="col-md-5 service-item wow zoomIn" data-wow-delay="0.6s">
-                            <div class="rounded-top overflow-hidden image-container-x">
-                                <img class="img-fluid" src="../img/general-tratments/bridges-why-side-photo.jpg" alt="">
+                            <div class="rounded-top overflow-hidden image-container-bridges-why">
+                                <img class="img-fluid" src="../img/general-tratments/bridges-why-side-photo.jpeg"
+                                    alt="">
                             </div>
                             <!-- <div class="position-relative bg-light rounded-bottom text-center p-4">
                                 <h5 class="m-0">Bridges</h5>

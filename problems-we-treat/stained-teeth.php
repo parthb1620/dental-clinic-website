@@ -115,7 +115,7 @@
                         <!-- <h6 class="mt-5 mb-0 ">At Bhayani Dental Clinic, we’re dedicated to providing quality
                             care for all patients. If you’re missing a tooth or multiple teeth, we can provide you with
                             long-lasting, high-quality restorations to improve your smile and your confidence.</h6> -->
-                        <div class="col-md-4 service-item wow zoomIn" data-wow-delay="0.3s">
+                        <!-- <div class="col-md-4 service-item wow zoomIn" data-wow-delay="0.3s">
                             <h4 class="mb-2 "><a
                                     href="<?php echo BASE_URL; ?>cosmatic/braces-aligners.php">Invisalign</a></h4>
                             <h4 class="text-body">We can provide you with invisible custom-made aligners that will fix
@@ -137,6 +137,30 @@
                                 be used to fill in the empty space, creating a more symmetrical appearance and
                                 preventing bacteria from accumulating. It can even be completed in just one visit. Learn
                                 more.
+                            </h4>
+                        </div> -->
+                        <div class="col-md-6 service-item wow zoomIn" data-wow-delay="0.3s">
+                            <h4 class="mb-2 ">In-office whitening
+                                treatments</h4>
+                            <h4 class="text-body">Our professional in-office teeth whitening treatments can fix stained
+                                teeth and dramatically brighten your smile in just a single visit. The procedure is
+                                non-invasive and comfortable, even for patients who deal with tooth sensitivity. The
+                                whole process only takes about two hours and is completely customizable – we’ll
+                                formulate the whitening treatment to achieve your desired result.
+                            </h4>
+                        </div>
+                        <div class="col-md-6 service-item wow zoomIn" data-wow-delay="0.3s">
+                            <h4 class="mb-2 ">
+                                <!-- <a href="<?php echo BASE_URL; ?>cosmatic/bonding.php"> -->
+                                Take-home whitening trays
+                                <!-- </a> -->
+                            </h4>
+                            <h4 class="text-body">Our custom-made, take-home teeth whitening trays are a convenient and
+                                affordable alternative to in-office whitening treatments. They can also be used in
+                                conjunction with professional whitening, as a way to maintain your bright smile between
+                                visits! We offer FREE take-home whitening for life to our dedicated patients. Just take
+                                the custom trays and gel home with you and whiten your teeth from the comfort of your
+                                own home.
                             </h4>
                         </div>
                     </div>
