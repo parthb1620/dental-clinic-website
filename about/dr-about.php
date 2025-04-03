@@ -41,13 +41,11 @@
                     <div class="section-title mb-5 p-5">
                         <h1 class="display-5 mb-2 ">Dr. Kalpesh Bhayani</h1>
                         <h4 class="text-body fst-italic mb-4">“It’s not just about treating dental issues, but about
-                            getting to know the people behind the smiles and building lifelong relationships. From
-                            vacations and milestones to engagements and weddings, I’m grateful to be a part of our
-                            patient’s lives.”</h4>
+                            getting to know the people behind the smiles and building lifelong relationships.”</h4>
                         <h4 class="display-6 mt-5">Meet Dr. Kalpesh Bhayani, General Dentist</h4>
                         <p class="text-body">Dr. Kalpesh Bhayani, your trusted dentist at Bhayani Dental Clinic, is
                             passionate about
-                            helping you achieve your healthiest, brightest smile possible. Dr. Jivani has provided
+                            helping you achieve your healthiest, brightest smile possible. Dr. Bhayani has provided
                             gentle, comprehensive dental care.</p>
                         <p class="text-body">With a focus on general dentistry, including fillings, root canals,
                             extractions, and
