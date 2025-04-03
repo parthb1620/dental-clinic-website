@@ -71,18 +71,18 @@
     <div class="container-fluid py-5 mb-5 wow fadeInUp" data-wow-delay="0.1s">
         <div class="container">
             <div class="row g-5 mb-5">
-                <div class="col-lg-6 wow zoomIn" data-wow-delay="0.3s" style="min-height: 300px;">
-                    <!-- <div class="twentytwenty-container position-relative h-200 rounded overflow-hidden">
+                <!-- <div class="col-lg-6 wow zoomIn" data-wow-delay="0.3s" style="min-height: 300px;"> -->
+                <!-- <div class="twentytwenty-container position-relative h-200 rounded overflow-hidden">
                         <img class="position-absolute w-200 h-200" src="../img/general-tratments/bridges-before.jpeg"
                             style="object-fit: cover;">
                         <img class="position-absolute w-200 h-200" src="../img/general-tratments/bridges-after.jpeg"
                             style="object-fit: cover;">
                     </div> -->
-                    <div class="rounded overflow-hidden image-container-home-main">
+                <!-- <div class="rounded overflow-hidden image-container-home-main">
                         <img class="img-fluid" src="../img/general-tratments/gum-therapy-main.jpg" alt="">
-                    </div>
-                </div>
-                <div class="col-lg-6">
+                    </div> -->
+                <!-- </div> -->
+                <div class="col-lg-12">
                     <div class="section-title mb-5">
                         <h5 class="position-relative d-inline-block text-primary text-uppercase">Our Treatments</h5>
                         <h1 class="display-5 mb-0  text-uppercase">Reduce the appearance of a "gummy smile" for a more

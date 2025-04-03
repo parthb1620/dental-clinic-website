@@ -34,7 +34,7 @@
 
     <div class="container-fluid p-0 position-relative">
         <!-- <source src="video/intro.mp4" type="video/mp4" /> -->
-        <img class="w-100" src="../img/service-4.JPG">
+        <img class="w-100" src="../img/service-4.jpg">
         <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
             <div class="p-3" style="max-width: 900px">
                 <!-- <h5 class="text-white text-uppercase mb-3">
@@ -135,7 +135,7 @@
                                     Comfort
                                 </h6>
                                 <p class="text-white">
-                                    Expert clinicians, guided by science
+                                    Relaxing care in a calm environment
                                 </p>
                             </div>
                             <div class="col-lg-4 mt-5">
@@ -144,7 +144,7 @@
                                     Technology
                                 </h6>
                                 <p class="text-white">
-                                    Expert clinicians, guided by science
+                                    The latest tools for a modern experience
                                 </p>
                             </div>
                         </div>

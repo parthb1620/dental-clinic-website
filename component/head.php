@@ -33,4 +33,120 @@
 
 <!-- Template Stylesheet -->
 <link href="../css/style.css" rel="stylesheet" />
+<style>
+    .dropdown-menu {
+        padding: 0.5rem 0;
+        margin: 0;
+        border: 1px solid rgba(0, 0, 0, .15);
+        border-radius: 0.25rem;
+        background-color: #fff;
+        box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, .15);
+    }
+
+    .dropdown-item {
+        padding: 0.5rem 1.5rem;
+        color: #212529;
+        transition: all 0.2s ease;
+    }
+
+    .dropdown-item:hover,
+    .dropdown-item:focus {
+        color: #1e2125;
+        background-color: #f8f9fa;
+        text-decoration: none;
+    }
+
+    /* Submenu positioning and styling */
+    .dropdown-submenu {
+        position: relative;
+    }
+
+    .dropdown-submenu .dropdown-menu {
+        top: 0;
+        left: 100%;
+        margin-top: -1px;
+        display: none;
+    }
+
+    /* Show dropdowns on hover for desktop */
+    @media (min-width: 992px) {
+
+        .dropdown-submenu:hover>.dropdown-menu,
+        .dropdown-menu.show {
+            display: block;
+        }
+
+        .dropdown-submenu .dropdown-toggle::after {
+            transform: rotate(-90deg);
+            position: absolute;
+            right: 1rem;
+            top: 50%;
+            margin-top: -0.4rem;
+        }
+    }
+
+    /* Mobile specific styles */
+    @media (max-width: 991.98px) {
+        .dropdown-menu {
+            border: none;
+            background-color: transparent;
+            box-shadow: none;
+            padding: 0;
+        }
+
+        .dropdown-submenu .dropdown-menu {
+            left: 0;
+            margin-left: 1rem;
+            padding-left: 1rem;
+            border-left: 2px solid #e9ecef;
+        }
+
+        .dropdown-item {
+            padding: 0.75rem 1.5rem;
+        }
+
+        .dropdown-toggle::after {
+            float: right;
+            margin-top: 0.5rem;
+        }
+
+        .dropdown-submenu .dropdown-toggle::after {
+            transform: rotate(0deg);
+        }
+
+        .dropdown-submenu .dropdown-toggle[aria-expanded="true"]::after {
+            transform: rotate(180deg);
+        }
+    }
+
+    /* Logo and active state */
+    .navbar-img-width {
+        max-height: 60px;
+    }
+
+    .nav-item.active .nav-link {
+        color: #0d6efd !important;
+    }
+
+    /* Dropdown arrows animation */
+    .dropdown-toggle::after {
+        transition: transform 0.2s ease;
+    }
+
+    .show>.dropdown-toggle::after {
+        transform: rotate(180deg);
+    }
+
+    /* Consistent background colors */
+    .dropdown-menu,
+    .sub-dropdown-bg,
+    .sub-dropdown-bg-dark {
+        background-color: #fff;
+    }
+
+    .dropdown-item:hover,
+    .dropdown-item:focus {
+        background-color: #f8f9fa;
+    }
+</style>
 <?php ?>

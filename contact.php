@@ -96,7 +96,7 @@
                             <i class="bi bi-phone-vibrate fs-1 text-primary me-3"></i>
                             <div class="text-start">
                                 <h5 class="mb-0">Call Us</h5>
-                                <span>0261- 7966258</span>
+                                <span>0261 257 5353</span>
                             </div>
                         </div>
                     </div>

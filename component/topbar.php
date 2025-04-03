@@ -19,7 +19,7 @@
                                 </div> -->
                 <div class="py-2">
                     <p class="m-0">
-                        <i class="fa fa-phone-alt me-2"></i>0261- 7966258
+                        <i class="fa fa-phone-alt me-2"></i>0261 257 5353
                     </p>
                 </div>
             </div>

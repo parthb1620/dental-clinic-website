@@ -95,11 +95,11 @@
                             bridge can help. A tooth bridge addresses the cosmetic and aesthetic issues with having a
                             missing tooth, but it also aids in maintaining your oral health.
                         </p> -->
-                        <h4 class="display-5 mb-0 text-light">Modern & gentle tooth extractions</h4>
-                        <p class="text-light mb-4">Removing a tooth is always a last resort, but doing so may be
+                        <h4 class="display-5 mb-0">Modern & gentle tooth extractions</h4>
+                        <p class="mb-4">Removing a tooth is always a last resort, but doing so may be
                             necessary when dealing with severe decay, infection, or a tooth with a poor prognosis.
                         </p>
-                        <p class="text-light mb-4">
+                        <p class="mb-4">
                             Whether you’re currently in pain and need an emergency extraction, you need a wisdom tooth
                             removed, or you’ve been told you need a tooth removed and want a second opinion, we’re here
                             to help.</p>
@@ -145,7 +145,7 @@
                 <div class="col-lg-12">
                     <div class="row g-5">
                         <div class="col-md-7 service-item wow zoomIn" data-wow-delay="0.3s">
-                            <h4 class="display-5 mb-0 text-light">Why Bhayani Dental Clinic?</h4>
+                            <h4 class="display-5 mb-0">Why Bhayani Dental Clinic?</h4>
                             <ul>
                                 <li>
                                     <h4 class="text-body">At Bhayani Dental Clinic, we specialize in safe and painless

@@ -111,7 +111,7 @@
             <div class="row mb-5 g-5 wow fadeInUp" data-wow-delay="0.1s">
                 <div class="col-lg-12">
                     <div class="row g-5">
-                        <h2 class="mt-5 mb-0 ">How to fix croocked teeth</h2>
+                        <h2 class="mt-5 mb-0 ">Treatment for stained teeth</h2>
                         <!-- <h6 class="mt-5 mb-0 ">At Bhayani Dental Clinic, we’re dedicated to providing quality
                             care for all patients. If you’re missing a tooth or multiple teeth, we can provide you with
                             long-lasting, high-quality restorations to improve your smile and your confidence.</h6> -->
