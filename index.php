@@ -66,7 +66,7 @@
                     Keep Your Teeth Healthy
                 </h5>
                 <h1 class="display-1 text-white mb-md-4">
-                    Take The Best Quality Dental Treatment
+                    Experience The Best Quality Dental Treatment
                 </h1>
             </div>
         </div>
@@ -186,7 +186,7 @@
                                     src="img/teeth-whitening-home.jpg" alt="" />
                             </div>
                             <div class="position-relative bg-light rounded-bottom text-center p-4">
-                                <h4 class="m-0"><b>Teeth Whitening</b></h4>
+                                <h4 class="m-0"><b>Teeth Cleaning & Scaling</b></h4>
                             </div>
                         </div>
                         <div class="col-md-4 service-item wow zoomIn" data-wow-delay="0.6s">

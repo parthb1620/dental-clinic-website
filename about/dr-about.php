@@ -47,7 +47,8 @@
                             passionate about
                             helping you achieve your healthiest, brightest smile possible. Dr. Bhayani has provided
                             gentle, comprehensive dental care.</p>
-                        <p class="text-body">With a focus on general dentistry, including fillings, root canals,
+                        <p class="text-body">With focus on implants, full mouth rehabilitation, smile designing, we
+                            provide general dental treatments including fillings, root canals,
                             extractions, and
                             crowns/bridges, Dr. Bhayani is committed to delivering care tailored to your needs.</p>
                         <p class="text-body">Beyond his technical skills, Dr. Bhayani values the relationships he builds

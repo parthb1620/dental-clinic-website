@@ -81,7 +81,7 @@
                             <i class="bi bi-geo-alt fs-1 text-primary me-3"></i>
                             <div class="text-start">
                                 <h5 class="mb-0">Our Clinic</h5>
-                                <span>C- 301/302, Keshav Shrushti, Alankar Complex, Oppo. Kapodra Police Station,
+                                <span>C- 301/302, Keshav Shrushti, Alankar Complex, Behind Kapodra Police Station,
                                     Vatacha Road, Surat.</span>
                             </div>
                         </div>

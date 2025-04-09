@@ -20,7 +20,7 @@ define('BASE_URL', '/');
                 <a href="#" id="about-menu" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">About Us</a>
                 <div class="dropdown-menu m-0 sub-dropdown-bg">
                     <a href="<?php echo BASE_URL; ?>about/clinic-about.php" class="dropdown-item">The Bhayani Dental
-                        Clinic Difference</a>
+                        Clinic Is Different</a>
                     <a href="<?php echo BASE_URL; ?>about/dr-about.php" class="dropdown-item">Meet Dr. Kalpesh
                         Bhayani</a>
                 </div>
@@ -79,7 +79,7 @@ define('BASE_URL', '/');
                             <a href="<?php echo BASE_URL; ?>surgical/extractions.php"
                                 class="dropdown-item">Extractions</a>
                             <a href="<?php echo BASE_URL; ?>surgical/implant-supported-dentures.php"
-                                class="dropdown-item">Implant Supported Dentures</a>
+                                class="dropdown-item">Implant Supported Over-Denture</a>
                         </div>
                     </div>
                     <div class="dropdown-submenu">

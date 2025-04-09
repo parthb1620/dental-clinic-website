@@ -145,7 +145,7 @@
                             <div class="rounded-top overflow-hidden image-container-denture">
                                 <img class="img-fluid" src="../img/general-tratments/dentures-full-dentures.jpg" alt="">
                             </div>
-                            <h4 class="mt-4 mb-2 text-center ">2. Full Dentures </h4>
+                            <h4 class="mt-4 mb-2 text-center ">2. Complete Dentures </h4>
                             <p class="text-center text-body">Full dentures replace an entire upper or lower set of
                                 teeth. This type of denture is typically removable. </p>
                         </div>
@@ -154,7 +154,7 @@
                                 <img class="img-fluid"
                                     src="../img/general-tratments/dentures-implant-supported-dentures.jpeg" alt="">
                             </div>
-                            <h4 class="mt-4 mb-2 text-center ">3. Implant-supported Dentures </h4>
+                            <h4 class="mt-4 mb-2 text-center ">3. Implant-Supported Over-Dentures </h4>
                             <p class="text-center text-body">This hybrid approach to dentures works by placing 4, 6, or
                                 8 implants and securing a denture on top.
                             </p>
