@@ -451,12 +451,19 @@ h6,
   width: 200px;
 }
 
+.about-clinic-section-mt-5 {
+  margin-top: 3rem;
+}
+
 @media (max-width: 991.98px) {
   .fs4 {
     font-size: 24px !important;
   }
   .navbar-img-width {
     width: 180px;
+  }
+  .about-clinic-section-mt-5 {
+    margin-top: 0rem;
   }
 }
 
@@ -467,6 +474,9 @@ h6,
   .navbar-img-width {
     width: 160px;
   }
+  .about-clinic-section-mt-5 {
+    margin-top: 0rem;
+  }
 }
 
 @media (max-width: 540px) {
@@ -475,6 +485,9 @@ h6,
   }
   .navbar-img-width {
     width: 140px;
+  }
+  .about-clinic-section-mt-5 {
+    margin-top: 0rem;
   }
 }
 
@@ -634,6 +647,24 @@ h6,
   background: url(../img/about-middle.jpg) center center no-repeat;
   background-size: cover;
   height: 700px;
+}
+
+@media (max-width: 720px) {
+  .about-us-bg {
+    height: 500px;
+  }
+}
+
+@media (max-width: 570px) {
+  .about-us-bg {
+    height: 370px;
+  }
+}
+
+@media (max-width: 420px) {
+  .about-us-bg {
+    height: 300px;
+  }
 }
 
 .dr-img-bg {

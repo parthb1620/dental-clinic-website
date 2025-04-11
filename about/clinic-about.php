@@ -119,8 +119,8 @@
                             Bhayani Clinic
                             Difference
                         </h5>
-                        <div class="row">
-                            <div class="col-lg-4 mt-5">
+                        <div class="row about-clinic-section-mt-5">
+                            <div class="col-lg-4">
                                 <i class="bi bi-emoji-heart-eyes text-white fs-1"></i>
                                 <h6 class="display-6 text-white mb-2">
                                     Quality
@@ -129,7 +129,7 @@
                                     Expert clinicians, guided by science
                                 </p>
                             </div>
-                            <div class="col-lg-4 mt-5">
+                            <div class="col-lg-4">
                                 <i class="bi bi-stars text-white fs-1"></i>
                                 <h6 class="display-6 text-white mb-2">
                                     Comfort
@@ -138,7 +138,7 @@
                                     Relaxing care in a calm environment
                                 </p>
                             </div>
-                            <div class="col-lg-4 mt-5">
+                            <div class="col-lg-4">
                                 <i class="bi bi-laptop text-white fs-1"></i>
                                 <h6 class="display-6 text-white mb-2">
                                     Technology

@@ -6,7 +6,7 @@
                 <h3 class="text-white mb-4">Get In Touch</h3>
                 <p class="mb-2 text-white"><i class="bi bi-geo-alt text-primary me-2"></i>C- 301/302, Keshav Shrushti,
                     Alankar
-                    Complex, Oppo. Kapodra Police Station, Vatacha Road, Surat.</p>
+                    Complex, Behind Kapodra Police Station, Vatacha Road, Surat.</p>
                 <!-- <p class="mb-2"><i class="bi bi-envelope-open text-primary me-2"></i>info@example.com</p> -->
                 <p class="mb-0 text-white"><i class="bi bi-telephone text-primary me-2"></i>0261 257 5353</p>
             </div>
